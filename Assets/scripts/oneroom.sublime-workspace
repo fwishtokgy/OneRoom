@@ -1,0 +1,480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"mainThemeC",
+				"mainThemeColor-hlt"
+			],
+			[
+				"m",
+				"mainBGColor-shd"
+			],
+			[
+				"main",
+				"mainThemeColor-shd"
+			],
+			[
+				"mainBGC",
+				"mainBGColor-shd"
+			],
+			[
+				"mainTheme",
+				"mainThemeColor-shd"
+			],
+			[
+				"transition",
+				"transition-delay"
+			],
+			[
+				"mainThem",
+				"--mainThemeColor-shd"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"obj",
+				"object-fit"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"border-radius",
+				"border-bottom-right-radius"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"scope",
+				"scope"
+			],
+			[
+				"length",
+				"length\tString.*"
+			],
+			[
+				"leng",
+				"length\tString.*"
+			],
+			[
+				"_Cam",
+				"_CamForward"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "RubitBlock.cs",
+			"settings":
+			{
+				"buffer_size": 300,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 980.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"unity",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 1000.0
+	},
+	"console":
+	{
+		"height": 308.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/GamesAndApps/Unity/VR/OneRoom/OneRoom/Assets/scripts"
+	],
+	"file_history":
+	[
+		"/D/Projects/web/sparkbyteapps/index.php",
+		"/E/Programs/xampp/htdocs/testsab/Assets/title_bot.svg",
+		"/E/Programs/xampp/htdocs/testsab/sab.sublime-project",
+		"/E/Programs/xampp/htdocs/testsab/Assets/svg_sparkbyteLogo.svg",
+		"/E/Programs/xampp/htdocs/elements/rice6/timeenums.js",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/header.php",
+		"/E/Programs/xampp/htdocs/SANSC/wp-content/themes/sansc/header.php",
+		"/E/Programs/xampp/htdocs/SANSC/wp-content/themes/sansc/footer.php",
+		"/E/Programs/xampp/htdocs/SANSC/wp-content/themes/twentysixteen/footer.php",
+		"/E/Programs/xampp/htdocs/SANSC/wp-content/themes/twentysixteen/template-parts/content.php",
+		"/E/Programs/xampp/htdocs/resources/ezgui/examples/game/phaser.html",
+		"/E/Programs/xampp/htdocs/resources/phaser-2.6.2/src/Phaser.js",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/battlements-confluent.php",
+		"/E/Programs/xampp/htdocs/HelloThinkster/flapper-news/routes/index.js",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/custom-claus-blockk.php",
+		"/E/ProjectsAndThoughts/Web/SANPC/decrypt/ccb_d.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/class-wp-themes-list-table_backup.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/ms-files.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/http.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/embed.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/query.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/de_DE.mo",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/index_indesit.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/test.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/w3-total-cache-config.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/evangelin-footpath.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/hxjvsceaa.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/custom-claus-block.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/hxjvscea.php",
+		"/E/ProjectsAndThoughts/Web/SANPC/Backup/downloads/choimd.vcf",
+		"/E/ProjectsAndThoughts/Web/SANPC/Backup/downloads/vcard-icon-44x30.png",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/1172678102f8658599bbbc3e8208f775",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/farbtastic.css",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/continents-cities.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/script-loader.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/version.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/about.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/user-edit.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/settings.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/elemental-funk.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/berets-barrages.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/brutalized-backups.php",
+		"/C/Users/j.choi/AppData/Local/Temp/fz3temp-1/xmlrpc.php",
+		"/E/Programs/xampp/htdocs/HelloThinkster/flapper-news/app.js",
+		"/E/Programs/xampp/htdocs/HelloThinkster/flapper-news/models/Posts.js",
+		"/E/Programs/xampp/htdocs/HelloThinkster/flapper-news/models/Comments.js",
+		"/E/ProjectsAndThoughts/bitbucket/leafvr/Assets/Shaders/blobTestShader.shader",
+		"/E/ProjectsAndThoughts/bitbucket/leafvr/Assets/Scripts/Weather/Sunlight_ShaderInfo.cs",
+		"/E/ProjectsAndThoughts/bitbucket/leafvr/Assets/Scripts/Camera/RenderMaterialFullScreen.cs",
+		"/E/ProjectsAndThoughts/bitbucket/leafvr/Assets/Scripts/Camera/RenderMaterialFullScript.cs",
+		"/E/ProjectsAndThoughts/bitbucket/leafvr/Temp/GeneratedFromSurface-rmCloud_test_01.shader",
+		"/C/Users/j.choi/AppData/Roaming/Sublime Text 3/Packages/ApplySyntax/ApplySyntax.sublime-settings",
+		"/C/Users/j.choi/AppData/Roaming/Sublime Text 3/Packages/User/ApplySyntax.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 220.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}\n",
+			"content",
+			".body",
+			";\n",
+			"5s",
+			"vert2",
+			".svg",
+			"width:100%",
+			".vert2",
+			".page",
+			"vert",
+			".content {",
+			".sider {",
+			".sider",
+			"5%",
+			".hiderLabel",
+			".hiderLabel-label",
+			"content",
+			";\n",
+			"right",
+			"10",
+			".sider ",
+			"sansc",
+			".png",
+			"sansc",
+			"getTheme",
+			"sansc",
+			"console.log",
+			"\"hi\"",
+			"/sansc",
+			"max-width: 40em",
+			"title",
+			"61.5625",
+			"61.625",
+			"sansc",
+			".site-footer",
+			".site-header-menu",
+			"@media screen and (min-width: 56.875em)",
+			"text-decoration",
+			".main-navigation li",
+			".main-navigation li a",
+			".main-navigation li a {",
+			".main-",
+			"@media screen and (min-width: 56.875em)",
+			"navigation",
+			"1em",
+			".comments-area,",
+			"1em",
+			"font-family",
+			"p {",
+			".entry-content h6",
+			".entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6, .entry-summary h1, .entry-summary h2, .entry-summary h3, .entry-summary h4, .entry-summary h5, .entry-summary h6, .comment-content h1, .comment-content h2, .comment-content h3, .comment-content h4, .comment-content h5, .comment-content h6, .textwidget h1, .textwidget h2, .textwidget h3, .textwidget h4, .textwidget h5, .textwidget h6",
+			".entry-content h1, .entry-content h2",
+			"comment-content h2, .comment-content h3, .comment-content h4, .comment-content h5, .comment-content h6, .textwidget h1, .textwidget h2, .textwidget h3, .textwidget h4, .textwidget h5, .textwidget h6",
+			".entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6, .entry-summary h1, .entry-summary h2, .entry-summary h3, .entry-summary h4, .entry-summary h5, .entry-summary h6, .comment-content h1, .comment-content h2, .comment-content h3, .comment-content h4, .comment-content h5, .comment-content h6, .textwidget h1, .textwidget h2, .textwidget h3, .textwidget h4, .textwidget h5, .textwidget h6",
+			"body",
+			"1.2727272727",
+			".entry-title",
+			"@media screen and (min-width: 56.875em)",
+			":hover",
+			".entry-content a img",
+			".entry-content",
+			"shadow",
+			"desc",
+			"main-navigation",
+			".main-nav",
+			" .75em",
+			".75em",
+			".75",
+			"header-image",
+			"cover",
+			".align-right",
+			".site-header-menu.to",
+			".toggled-on",
+			".site-header-menu",
+			"logo",
+			"suffering",
+			"tahoma",
+			"border",
+			"png",
+			"site-h",
+			"font-famil",
+			"site-header",
+			"site-title",
+			".site-branding",
+			".site-footer",
+			"709",
+			"@media",
+			"@",
+			"widget",
+			"gradient",
+			"content-area",
+			"@media screen and (min-width: 44.375em)\n.site {",
+			".site",
+			"page",
+			"margin",
+			"html",
+			"footer",
+			"#fff",
+			"content-area",
+			".site-main",
+			".site-content",
+			"#fff",
+			"#fff\t",
+			"#fff",
+			"site-content",
+			"main-navigation",
+			"main-magivation",
+			".site-footer",
+			"site-footer",
+			"site-inner",
+			"site-inner\t",
+			"site-inner",
+			".site-main",
+			"#fff",
+			"site",
+			"footer",
+			"battlements",
+			"hcxfqlsu",
+			"comments",
+			"minus",
+			"hit",
+			"march",
+			"sphere",
+			"distfunc",
+			"hit",
+			"syntaxes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "RubitBlock.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "oneroom.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
